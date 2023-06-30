@@ -3,13 +3,13 @@
     <div class="bannerHero__container container container--large">
       <div class="bannerHero__contentHolder flex flex--dir-c justifyC--center">
         <h1 class="bannerHero__header ff--jura fs--52 lh--120 z--1 fw--600">
-          The Highest Passive Income in Crypto
+          DeFi for Degens<br>1st Auto-Stake on ETH
         </h1>
         <p class="bannerHero__paragraph fs--20 o--6 lh--180">
-          1st Auto-Stake on ETH. Earn 150,000% APY Just By Holding.
+          Earn 150,000% APY Just By Holding.
         </p>
         <p class="bannerHero__paragraph fs--20 o--6 lh--180">
-          Simple & Profitable. Brought to you by the Titano Finance Team. 
+          So Easy, Even A Degen Can Do It. 
         </p>
         <div class="bannerHero__btnHolder flex">
           <a href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0xB4c1896b70231402f63277ee031a632773c2A990" target="_blank">
